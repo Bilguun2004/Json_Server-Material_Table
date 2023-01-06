@@ -1,0 +1,2138 @@
+{
+  "data": [
+  {
+    "MID": 100018,
+    "Mcode": "997455574",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-27",
+    "Mconfdate": "2025-06-01",
+    "MrsVal": "Актлагдсан",
+    "Stamps": [
+      {
+        "MID": 100018,
+        "StampNum": "45641231",
+        "StampTypeID": 1,
+        "StampColorID": 2,
+        "StartDate": "2021-11-25T08:37:29.250",
+        "EndDate": "2021-11-25T08:37:29.250",
+        "StatusID": 0,
+        "RegDate": "2022-01-20T16:24:05.117",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2022-01-20",
+        "MstampColorID": 2,
+        "MstampColorName": "Ягаан",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100018,
+        "StampNum": "1231231231233",
+        "StampTypeID": 2,
+        "StampColorID": 3,
+        "StartDate": "2021-11-25T08:39:24",
+        "EndDate": "2021-11-25T08:39:24",
+        "StatusID": 0,
+        "RegDate": "2022-02-18T14:52:54.340",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2022-02-18",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Баталгаажуулалтын лац"
+      },
+      {
+        "MID": 100018,
+        "StampNum": "2112",
+        "StampTypeID": 3,
+        "StampColorID": 6,
+        "StartDate": "2021-11-25T08:44:37.787",
+        "EndDate": "2021-11-25T08:44:37.787",
+        "StatusID": 0,
+        "RegDate": "2022-01-21T11:17:44.187",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2022-01-21",
+        "MstampColorID": 6,
+        "MstampColorName": "Цагаан",
+        "StampType": "Шитний лац"
+      }
+    ]
+  },
+  {
+    "MID": 100019,
+    "Mcode": "99787hjkhjk8789",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-19",
+    "Mconfdate": "2025-06-01",
+    "MrsVal": "Засварлагдсан",
+    "Stamps": [
+      {
+        "MID": 100019,
+        "StampNum": "7894564",
+        "StampTypeID": 1,
+        "StampColorID": 3,
+        "StartDate": "2021-11-25T07:57:48.793",
+        "EndDate": "2021-11-25T07:57:48.793",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T15:57:55.130",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100019,
+        "StampNum": "32312321",
+        "StampTypeID": 2,
+        "StampColorID": 4,
+        "StartDate": "2021-11-25T07:58:58.790",
+        "EndDate": "2021-11-25T07:58:58.790",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T15:59:04.760",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 4,
+        "MstampColorName": "Шар",
+        "StampType": "Баталгаажуулалтын лац"
+      }
+    ]
+  },
+  {
+    "MID": 100020,
+    "Mcode": "AaЙй9876451230",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-22",
+    "Mconfdate": "2025-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100020,
+        "StampNum": "456654",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2021-11-25T06:23:15.493",
+        "EndDate": "2021-11-25T06:23:15.493",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T14:23:23.293",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100020,
+        "StampNum": "456654",
+        "StampTypeID": 2,
+        "StampColorID": 3,
+        "StartDate": "2021-11-25T06:23:22.950",
+        "EndDate": "2021-11-25T06:23:22.950",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T14:23:44.853",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Баталгаажуулалтын лац"
+      },
+      {
+        "MID": 100020,
+        "StampNum": "123456457",
+        "StampTypeID": 3,
+        "StampColorID": 3,
+        "StartDate": "2021-11-25T08:41:28.277",
+        "EndDate": "2021-11-25T08:41:28.277",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T16:41:40.623",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Шитний лац"
+      }
+    ]
+  },
+  {
+    "MID": 100021,
+    "Mcode": "7hjk87'8999'564",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100021,
+        "StampNum": "123123",
+        "StampTypeID": 2,
+        "StampColorID": 2,
+        "StartDate": "2022-02-21T01:40:17.923",
+        "EndDate": "2022-02-21T01:40:17.923",
+        "StatusID": 0,
+        "RegDate": "2022-02-21T09:40:27.913",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-02-21",
+        "EndDate1": "2022-02-21",
+        "RegDate1": "2022-02-21",
+        "MstampColorID": 2,
+        "MstampColorName": "Ягаан",
+        "StampType": "Баталгаажуулалтын лац"
+      },
+      {
+        "MID": 100021,
+        "StampNum": "012212121",
+        "StampTypeID": 3,
+        "StampColorID": 3,
+        "StartDate": "2022-02-21T01:46:03.147",
+        "EndDate": "2022-02-21T01:46:03.147",
+        "StatusID": 0,
+        "RegDate": "2022-02-21T09:46:15.030",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-02-21",
+        "EndDate1": "2022-02-21",
+        "RegDate1": "2022-02-21",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Шитний лац"
+      },
+      {
+        "MID": 100021,
+        "StampNum": "789789789",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2021-11-25T07:27:51.450",
+        "EndDate": "2021-11-25T07:27:51.450",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T15:27:56.827",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100022,
+    "Mcode": "7hjk87899956465",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-22",
+    "Mconfdate": "2025-06-01",
+    "MrsVal": "Засварлагдсан",
+    "Stamps": [
+      {
+        "MID": 100022,
+        "StampNum": "123456456",
+        "StampTypeID": 1,
+        "StampColorID": 3,
+        "StartDate": "2021-11-25T07:27:23.957",
+        "EndDate": "2021-11-25T07:27:23.957",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T15:27:31.573",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100023,
+    "Mcode": "7hjk8opopiop789",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-08",
+    "Mconfdate": "2025-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100023,
+        "StampNum": "1231231231",
+        "StampTypeID": 2,
+        "StampColorID": 3,
+        "StartDate": "2021-12-02T07:05:04.777",
+        "EndDate": "2021-12-02T07:05:04.777",
+        "StatusID": 0,
+        "RegDate": "2022-01-21T11:06:31.100",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-12-02",
+        "EndDate1": "2021-12-02",
+        "RegDate1": "2022-01-21",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Баталгаажуулалтын лац"
+      },
+      {
+        "MID": 100023,
+        "StampNum": "100011",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2022-02-16T10:40:41.520",
+        "EndDate": "2022-02-16T10:40:41.520",
+        "StatusID": 0,
+        "RegDate": "2022-02-16T18:40:55.397",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-02-16",
+        "EndDate1": "2022-02-16",
+        "RegDate1": "2022-02-16",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100023,
+        "StampNum": "78979",
+        "StampTypeID": 3,
+        "StampColorID": 6,
+        "StartDate": "2022-02-01T10:40:58",
+        "EndDate": "2024-04-18T10:40:58",
+        "StatusID": 0,
+        "RegDate": "2022-02-16T18:42:13.050",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-02-01",
+        "EndDate1": "2024-04-18",
+        "RegDate1": "2022-02-16",
+        "MstampColorID": 6,
+        "MstampColorName": "Цагаан",
+        "StampType": "Шитний лац"
+      }
+    ]
+  },
+  {
+    "MID": 100024,
+    "Mcode": "asdasdTest1",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100024,
+        "StampNum": "1234545",
+        "StampTypeID": 1,
+        "StampColorID": 3,
+        "StartDate": "2021-11-25T08:45:59.283",
+        "EndDate": "2021-11-25T08:45:59.283",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T16:46:04.263",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100025,
+    "Mcode": "Mcode1",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Хэлхээнд тавигдсан",
+    "Stamps": [
+      {
+        "MID": 100025,
+        "StampNum": "123456",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2022-03-01T16:00:00",
+        "EndDate": "2022-03-09T16:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-03-01T18:32:20.777",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-03-01",
+        "EndDate1": "2022-03-09",
+        "RegDate1": "2022-03-01",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100025,
+        "StampNum": "4564567878",
+        "StampTypeID": 2,
+        "StampColorID": 1,
+        "StartDate": "2022-09-06T00:00:00",
+        "EndDate": "2022-09-06T00:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-09-16T09:49:50.800",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-06",
+        "EndDate1": "2022-09-06",
+        "RegDate1": "2022-09-16",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Баталгаажуулалтын лац"
+      },
+      {
+        "MID": 100025,
+        "StampNum": "45554452121",
+        "StampTypeID": 3,
+        "StampColorID": 5,
+        "StartDate": "2022-09-14T00:00:00",
+        "EndDate": "2022-09-16T00:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-09-16T10:06:27.940",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-14",
+        "EndDate1": "2022-09-16",
+        "RegDate1": "2022-09-16",
+        "MstampColorID": 5,
+        "MstampColorName": "Улаан",
+        "StampType": "Шитний лац"
+      }
+    ]
+  },
+  {
+    "MID": 100026,
+    "Mcode": "Mcode1",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-06-26",
+    "Mconfdate": "2021-06-10",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100026,
+        "StampNum": "1234",
+        "StampTypeID": 2,
+        "StampColorID": 5,
+        "StartDate": "2021-01-01T00:00:00",
+        "EndDate": "2021-07-01T00:00:00",
+        "StatusID": 0,
+        "RegDate": "2021-08-31T14:08:34.703",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-01-01",
+        "EndDate1": "2021-07-01",
+        "RegDate1": "2021-08-31",
+        "MstampColorID": 5,
+        "MstampColorName": "Улаан",
+        "StampType": "Баталгаажуулалтын лац"
+      },
+      {
+        "MID": 100026,
+        "StampNum": "178",
+        "StampTypeID": 3,
+        "StampColorID": 1,
+        "StartDate": "2021-01-01T00:00:00",
+        "EndDate": "2021-07-01T00:00:00",
+        "StatusID": 0,
+        "RegDate": "2021-08-30T19:15:53.407",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-01-01",
+        "EndDate1": "2021-07-01",
+        "RegDate1": "2021-08-30",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Шитний лац"
+      },
+      {
+        "MID": 100026,
+        "StampNum": "123123",
+        "StampTypeID": 1,
+        "StampColorID": 8,
+        "StartDate": "2022-02-21T01:52:36.947",
+        "EndDate": "2022-02-21T01:52:36.947",
+        "StatusID": 0,
+        "RegDate": "2022-02-21T09:52:53.690",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-02-21",
+        "EndDate1": "2022-02-21",
+        "RegDate1": "2022-02-21",
+        "MstampColorID": 8,
+        "MstampColorName": "Тугалга",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100026,
+        "StampNum": "123555",
+        "StampTypeID": 4,
+        "StampColorID": 1,
+        "StartDate": "2021-01-01T00:00:00",
+        "EndDate": "2021-07-01T00:00:00",
+        "StatusID": 0,
+        "RegDate": "2021-08-23T17:49:37.683",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-01-01",
+        "EndDate1": "2021-07-01",
+        "RegDate1": "2021-08-23",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "й"
+      }
+    ]
+  },
+  {
+    "MID": 100027,
+    "Mcode": "7hjk878999'5646",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100027,
+        "StampNum": "123555",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2021-08-26T08:04:57.850",
+        "EndDate": "2021-08-26T08:04:57.850",
+        "StatusID": 0,
+        "RegDate": "2021-08-26T16:05:03.590",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-08-26",
+        "EndDate1": "2021-08-26",
+        "RegDate1": "2021-08-26",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100027,
+        "StampNum": "100027",
+        "StampTypeID": 2,
+        "StampColorID": 3,
+        "StartDate": "2021-08-27T01:45:08.610",
+        "EndDate": "2021-08-27T01:45:08.610",
+        "StatusID": 0,
+        "RegDate": "2021-08-27T13:48:45.907",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-08-27",
+        "EndDate1": "2021-08-27",
+        "RegDate1": "2021-08-27",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Баталгаажуулалтын лац"
+      }
+    ]
+  },
+  {
+    "MID": 100028,
+    "Mcode": "4567897",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100028,
+        "StampNum": "45641231",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2021-12-07T06:14:56",
+        "EndDate": "2021-12-08T06:14:56",
+        "StatusID": 0,
+        "RegDate": "2021-12-06T14:15:07.570",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-12-07",
+        "EndDate1": "2021-12-08",
+        "RegDate1": "2021-12-06",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100028,
+        "StampNum": "6656565",
+        "StampTypeID": 2,
+        "StampColorID": 3,
+        "StartDate": "2022-09-21T00:00:00",
+        "EndDate": "2022-09-23T00:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-09-22T15:22:25.313",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-21",
+        "EndDate1": "2022-09-23",
+        "RegDate1": "2022-09-22",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Баталгаажуулалтын лац"
+      }
+    ]
+  },
+  {
+    "MID": 100029,
+    "Mcode": "2222222",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100029,
+        "StampNum": "45641231",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2021-12-06T06:16:29.747",
+        "EndDate": "2021-12-07T06:16:29",
+        "StatusID": 0,
+        "RegDate": "2021-12-06T14:16:38.923",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-12-06",
+        "EndDate1": "2021-12-07",
+        "RegDate1": "2021-12-06",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100030,
+    "Mcode": "Mcode1",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100030,
+        "StampNum": "9889",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2022-02-16T10:38:51.060",
+        "EndDate": "2022-02-16T10:38:51.060",
+        "StatusID": 0,
+        "RegDate": "2022-02-16T18:39:43.880",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-02-16",
+        "EndDate1": "2022-02-16",
+        "RegDate1": "2022-02-16",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100031,
+    "Mcode": "7000002",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100036,
+    "Mcode": "123123",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-23",
+    "Mconfdate": "2021-06-23",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100037,
+    "Mcode": "919191919",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100037,
+        "StampNum": "123456",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2022-03-09T16:00:00",
+        "EndDate": "2022-03-23T16:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-03-10T14:44:17.030",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-03-09",
+        "EndDate1": "2022-03-23",
+        "RegDate1": "2022-03-10",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100038,
+    "Mcode": "70808080",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100039,
+    "Mcode": "9500001",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100039,
+        "StampNum": "45641231",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2021-12-14T16:00:00",
+        "EndDate": "2021-12-15T16:00:00",
+        "StatusID": 0,
+        "RegDate": "2021-12-06T14:30:05.967",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-12-14",
+        "EndDate1": "2021-12-15",
+        "RegDate1": "2021-12-06",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100040,
+    "Mcode": "992271830",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100040,
+        "StampNum": "778787878",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2021-11-25T08:48:56.823",
+        "EndDate": "2021-11-25T08:48:56.823",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T16:49:04.290",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100041,
+    "Mcode": "123456789",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100041,
+        "StampNum": "qweqweqwe",
+        "StampTypeID": 3,
+        "StampColorID": 3,
+        "StartDate": "2022-09-29T00:00:00",
+        "EndDate": "2022-09-22T00:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-09-27T14:34:42.207",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-29",
+        "EndDate1": "2022-09-22",
+        "RegDate1": "2022-09-27",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Шитний лац"
+      },
+      {
+        "MID": 100041,
+        "StampNum": "?--",
+        "StampTypeID": 2,
+        "StampColorID": 2,
+        "StartDate": "2022-09-01T07:00:00",
+        "EndDate": "2022-09-02T07:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-09-23T12:12:54.253",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-01",
+        "EndDate1": "2022-09-02",
+        "RegDate1": "2022-09-23",
+        "MstampColorID": 2,
+        "MstampColorName": "Ягаан",
+        "StampType": "Баталгаажуулалтын лац"
+      },
+      {
+        "MID": 100041,
+        "StampNum": "10414141",
+        "StampTypeID": 1,
+        "StampColorID": 2,
+        "StartDate": "2021-11-25T08:48:14.973",
+        "EndDate": "2021-11-25T08:48:14.973",
+        "StatusID": 0,
+        "RegDate": "2021-11-25T16:48:27.020",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2021-11-25",
+        "EndDate1": "2021-11-25",
+        "RegDate1": "2021-11-25",
+        "MstampColorID": 2,
+        "MstampColorName": "Ягаан",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100042,
+    "Mcode": "702110761",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100043,
+    "Mcode": "711121791",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-02",
+    "Mconfdate": "2021-06-02",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100044,
+    "Mcode": "900001014",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-02",
+    "Mconfdate": "2021-06-28",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100045,
+    "Mcode": "900001015",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-28",
+    "Mconfdate": "2021-06-28",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100046,
+    "Mcode": "454545787878",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-15",
+    "Mconfdate": "2021-06-09",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100047,
+    "Mcode": "99887766",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-28",
+    "Mconfdate": "2021-06-28",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100048,
+    "Mcode": "1231231231231",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-30",
+    "Mconfdate": "2021-06-30",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100051,
+    "Mcode": "9922718312",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-07",
+    "Mconfdate": "2021-07-31",
+    "MrsVal": "Гэмтэлтэй",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100052,
+    "Mcode": "70102076",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-19",
+    "Mconfdate": "2021-07-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100053,
+    "Mcode": "70102077",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-19",
+    "Mconfdate": "2021-07-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100054,
+    "Mcode": "7011",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-19",
+    "Mconfdate": "2021-07-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100055,
+    "Mcode": "701112",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-19",
+    "Mconfdate": "2021-07-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100056,
+    "Mcode": "123654",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-07-19",
+    "Mconfdate": "2021-07-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100057,
+    "Mcode": "99227183last",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-07-27",
+    "Mconfdate": "2021-07-27",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100058,
+    "Mcode": "78978978",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-27",
+    "Mconfdate": "2021-07-27",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100059,
+    "Mcode": "787878",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-07-28",
+    "Mconfdate": "2021-07-28",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100060,
+    "Mcode": "456456",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-11",
+    "Mconfdate": "2021-08-11",
+    "MrsVal": "Засварлагдсан",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100061,
+    "Mcode": "123987",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-14",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100062,
+    "Mcode": "7001221",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100063,
+    "Mcode": "70012214554",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100064,
+    "Mcode": "12312345",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100065,
+    "Mcode": "123123777",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100066,
+    "Mcode": "7897897897",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100067,
+    "Mcode": "324545",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100068,
+    "Mcode": "123123787878",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100069,
+    "Mcode": "1231231111",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100070,
+    "Mcode": "1231237878788",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100071,
+    "Mcode": "123123789786532",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100072,
+    "Mcode": "98798687687",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100073,
+    "Mcode": "700122111",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100074,
+    "Mcode": "70012214654545",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100075,
+    "Mcode": "123123656565",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100076,
+    "Mcode": "1231237777",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100077,
+    "Mcode": "45645456",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100078,
+    "Mcode": "12312377778",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100079,
+    "Mcode": "12312344545",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100080,
+    "Mcode": "321545",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100081,
+    "Mcode": "1231233333",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100082,
+    "Mcode": "1245454",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100083,
+    "Mcode": "98784545",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100084,
+    "Mcode": "456456123",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100085,
+    "Mcode": "12312311111",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-13",
+    "Mconfdate": "2021-08-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100086,
+    "Mcode": "111111",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-16",
+    "Mconfdate": "2021-08-16",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100087,
+    "Mcode": "123123455",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-08-23",
+    "Mconfdate": "2021-08-23",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100088,
+    "Mcode": "987654132",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-23",
+    "Mconfdate": "2021-08-23",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100089,
+    "Mcode": "63548921533",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-02",
+    "Mconfdate": "2021-06-16",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100090,
+    "Mcode": "7001221457878",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-08-31",
+    "Mconfdate": "2021-08-31",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100091,
+    "Mcode": "998877665544332",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2020-07-07",
+    "Mconfdate": "2021-09-08",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100092,
+    "Mcode": "700122198",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-09-06",
+    "Mconfdate": "2021-09-06",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100093,
+    "Mcode": "123123112312",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-09-08",
+    "Mconfdate": "2021-09-08",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100094,
+    "Mcode": "Mcode1",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-09-08",
+    "Mconfdate": "2021-09-08",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100095,
+    "Mcode": "123123123123177",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-09-08",
+    "Mconfdate": "2021-09-08",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100096,
+    "Mcode": "231234564",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-09-08",
+    "Mconfdate": "2021-09-08",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100097,
+    "Mcode": "1231231555",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-09-08",
+    "Mconfdate": "2021-09-08",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100098,
+    "Mcode": "54454545",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-09-08",
+    "Mconfdate": "2021-09-08",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100099,
+    "Mcode": "991199119911991",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-10-05",
+    "Mconfdate": "2021-10-05",
+    "MrsVal": "Гэмтэлтэй",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100100,
+    "Mcode": "789456123456",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-11-25",
+    "Mconfdate": "2021-11-25",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100101,
+    "Mcode": "12312311",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-11-29",
+    "Mconfdate": "2021-11-29",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100102,
+    "Mcode": "787878777",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-11-29",
+    "Mconfdate": "2021-11-29",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100103,
+    "Mcode": "6465456465",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-11-29",
+    "Mconfdate": "2021-11-29",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100104,
+    "Mcode": "564554545454545",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2021-11-29",
+    "Mconfdate": "2021-11-29",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100105,
+    "Mcode": "789789",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2022-01-11",
+    "Mconfdate": "2022-01-12",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100105,
+        "StampNum": "77777744",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2022-01-21T03:17:22.533",
+        "EndDate": "2022-01-21T03:17:22.533",
+        "StatusID": 0,
+        "RegDate": "2022-01-21T11:17:30.190",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-01-21",
+        "EndDate1": "2022-01-21",
+        "RegDate1": "2022-01-21",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100106,
+    "Mcode": "777777",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-19",
+    "Mconfdate": "2022-01-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100106,
+        "StampNum": "11221",
+        "StampTypeID": 1,
+        "StampColorID": 1,
+        "StartDate": "2022-01-27T10:07:39.063",
+        "EndDate": "2022-01-27T10:07:39.063",
+        "StatusID": 0,
+        "RegDate": "2022-01-27T18:08:01.007",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-01-27",
+        "EndDate1": "2022-01-27",
+        "RegDate1": "2022-01-27",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100107,
+    "Mcode": "12345",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-19",
+    "Mconfdate": "2022-01-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100108,
+    "Mcode": "456465",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-19",
+    "Mconfdate": "2022-01-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100108,
+        "StampNum": "4545",
+        "StampTypeID": 2,
+        "StampColorID": 1,
+        "StartDate": "2022-01-21T05:10:49.893",
+        "EndDate": "2022-01-21T05:10:49.893",
+        "StatusID": 0,
+        "RegDate": "2022-01-21T13:11:04.657",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-01-21",
+        "EndDate1": "2022-01-21",
+        "RegDate1": "2022-01-21",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Баталгаажуулалтын лац"
+      }
+    ]
+  },
+  {
+    "MID": 100109,
+    "Mcode": "6666",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-19",
+    "Mconfdate": "2022-01-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100110,
+    "Mcode": "asdasd",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-20",
+    "Mconfdate": "2022-01-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100111,
+    "Mcode": "4545",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-20",
+    "Mconfdate": "2022-01-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100112,
+    "Mcode": "4545445Test",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-20",
+    "Mconfdate": "2022-01-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100113,
+    "Mcode": "75454554",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2022-01-20",
+    "Mconfdate": "2022-01-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100114,
+    "Mcode": "854212121212",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-20",
+    "Mconfdate": "2022-01-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100115,
+    "Mcode": "4454545454545",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-20",
+    "Mconfdate": "2022-01-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100116,
+    "Mcode": "544545445",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-01-20",
+    "Mconfdate": "2022-01-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100117,
+    "Mcode": "545464564",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2022-01-20",
+    "Mconfdate": "2022-01-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100118,
+    "Mcode": "123",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-04-06",
+    "Mconfdate": "2022-04-06",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100118,
+        "StampNum": "sdfsdf",
+        "StampTypeID": 1,
+        "StampColorID": 2,
+        "StartDate": "2022-08-24T07:24:12.943",
+        "EndDate": "2022-08-24T07:24:12.943",
+        "StatusID": 0,
+        "RegDate": "2022-08-24T15:24:36.833",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-08-24",
+        "EndDate1": "2022-08-24",
+        "RegDate1": "2022-08-24",
+        "MstampColorID": 2,
+        "MstampColorName": "Ягаан",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100119,
+    "Mcode": "99999",
+    "MmarkName": "Test4",
+    "Mplantdate": "2022-05-05",
+    "Mconfdate": "2022-05-05",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100120,
+    "Mcode": "00104412",
+    "MmarkName": "Test4",
+    "Mplantdate": "2022-07-01",
+    "Mconfdate": "2022-08-28",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100120,
+        "StampNum": "00104415",
+        "StampTypeID": 3,
+        "StampColorID": 3,
+        "StartDate": "2022-09-01T06:52:16.600",
+        "EndDate": "2023-09-01T06:52:16",
+        "StatusID": 0,
+        "RegDate": "2022-09-01T14:52:56.877",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-01",
+        "EndDate1": "2023-09-01",
+        "RegDate1": "2022-09-01",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Шитний лац"
+      }
+    ]
+  },
+  {
+    "MID": 100121,
+    "Mcode": "00104413",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-06-01",
+    "Mconfdate": "2022-08-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100121,
+        "StampNum": "00441212",
+        "StampTypeID": 1,
+        "StampColorID": 3,
+        "StartDate": "2022-09-01T06:54:54.250",
+        "EndDate": "2025-09-01T06:54:54",
+        "StatusID": 0,
+        "RegDate": "2022-09-01T14:55:45.197",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-01",
+        "EndDate1": "2025-09-01",
+        "RegDate1": "2022-09-01",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100122,
+    "Mcode": "00104414",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2020-09-01",
+    "Mconfdate": "2021-09-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100122,
+        "StampNum": "0044121",
+        "StampTypeID": 2,
+        "StampColorID": 3,
+        "StartDate": "2022-09-01T06:52:56.770",
+        "EndDate": "2023-09-01T06:52:56",
+        "StatusID": 0,
+        "RegDate": "2022-09-01T14:53:35.920",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-01",
+        "EndDate1": "2023-09-01",
+        "RegDate1": "2022-09-01",
+        "MstampColorID": 3,
+        "MstampColorName": "Ногоон",
+        "StampType": "Баталгаажуулалтын лац"
+      },
+      {
+        "MID": 100122,
+        "StampNum": "00441215",
+        "StampTypeID": 3,
+        "StampColorID": 1,
+        "StartDate": "2022-09-01T06:53:35.797",
+        "EndDate": "2024-09-01T06:53:35",
+        "StatusID": 0,
+        "RegDate": "2022-09-01T14:54:03.543",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-01",
+        "EndDate1": "2024-09-01",
+        "RegDate1": "2022-09-01",
+        "MstampColorID": 1,
+        "MstampColorName": "Цэнхэр",
+        "StampType": "Шитний лац"
+      },
+      {
+        "MID": 100122,
+        "StampNum": "2345234234",
+        "StampTypeID": 1,
+        "StampColorID": 2,
+        "StartDate": "2022-09-22T00:00:00",
+        "EndDate": "2022-09-23T00:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-09-22T15:02:24.580",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-22",
+        "EndDate1": "2022-09-23",
+        "RegDate1": "2022-09-22",
+        "MstampColorID": 2,
+        "MstampColorName": "Ягаан",
+        "StampType": "Үйлдвэрийн лац "
+      }
+    ]
+  },
+  {
+    "MID": 100123,
+    "Mcode": "00104415",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2015-09-01",
+    "Mconfdate": "2015-12-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+      {
+        "MID": 100123,
+        "StampNum": "123123123",
+        "StampTypeID": 1,
+        "StampColorID": 2,
+        "StartDate": "2022-09-22T16:00:00",
+        "EndDate": "2022-09-22T16:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-09-22T15:06:04.103",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-22",
+        "EndDate1": "2022-09-22",
+        "RegDate1": "2022-09-22",
+        "MstampColorID": 2,
+        "MstampColorName": "Ягаан",
+        "StampType": "Үйлдвэрийн лац "
+      },
+      {
+        "MID": 100123,
+        "StampNum": "78877878",
+        "StampTypeID": 2,
+        "StampColorID": 6,
+        "StartDate": "2022-09-15T16:00:00",
+        "EndDate": "2022-09-13T16:00:00",
+        "StatusID": 0,
+        "RegDate": "2022-09-22T15:06:46.447",
+        "Dom": "99",
+        "Usr": "001",
+        "StartDate1": "2022-09-15",
+        "EndDate1": "2022-09-13",
+        "RegDate1": "2022-09-22",
+        "MstampColorID": 6,
+        "MstampColorName": "Цагаан",
+        "StampType": "Баталгаажуулалтын лац"
+      }
+    ]
+  },
+  {
+    "MID": 100124,
+    "Mcode": "123123123",
+    "MmarkName": "DDS155-test",
+    "Mplantdate": "2022-09-15",
+    "Mconfdate": "2022-09-15",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100125,
+    "Mcode": "qweqweqweqASasA",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-08-30",
+    "Mconfdate": "2022-09-19",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100128,
+    "Mcode": "1231234444",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2022-09-20",
+    "Mconfdate": "2022-09-20",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100129,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100130,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100131,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100132,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100133,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100134,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100135,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100136,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100137,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100138,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-26",
+    "Mconfdate": "2021-06-10",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100139,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100140,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100141,
+    "Mcode": "987",
+    "MmarkName": "Test4",
+    "Mplantdate": "2022-09-23",
+    "Mconfdate": "2022-09-23",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100142,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-06-10",
+    "Mconfdate": "2021-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100143,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-21",
+    "Mconfdate": "2025-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100144,
+    "Mcode": "116",
+    "MmarkName": "DDS155",
+    "Mplantdate": "2021-07-21",
+    "Mconfdate": "2025-06-01",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100145,
+    "Mcode": "88111534",
+    "MmarkName": "DDS156",
+    "Mplantdate": "2000-10-13",
+    "Mconfdate": "2022-10-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  },
+  {
+    "MID": 100146,
+    "Mcode": "8811153415",
+    "MmarkName": "DDS156",
+    "Mplantdate": "2022-10-13",
+    "Mconfdate": "2022-10-13",
+    "MrsVal": "Шинээр",
+    "Stamps": [
+
+    ]
+  }
+] 
+}
